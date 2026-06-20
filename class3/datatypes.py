@@ -6,5 +6,6 @@ print(f"""
      value of x is {x}
 type of data stored in x is {type(x)}
 value of y is {y}
-type of data stored in y is {type(y)} 
+type of data stored in y is {type(y)}
+value of name is 
       """)

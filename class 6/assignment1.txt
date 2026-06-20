@@ -1,0 +1,14 @@
+Write the data types for following:
+
+name = "Krish"
+data type for name is string
+
+
+age = 10
+data type for age is integer
+
+height = 4
+data type for height is integer
+
+isPresent = True
+data type for isPresent is boolean
