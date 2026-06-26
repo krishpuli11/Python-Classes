@@ -12,3 +12,6 @@ print(f"sub of {x} and {y} is {sub}")
 
 mul=x*y
 print(f"mul of {x} and {y} is {mul}")
+
+div=x/y
+print(f"div of {x} and {y} is {div}")
