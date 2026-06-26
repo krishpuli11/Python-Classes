@@ -1,0 +1,6 @@
+k=int(input("enter integer data:"))
+print(f"value of k is {k}")
+p=float(input("enter float data"))
+print(f"value of p is {p}")
+c=str(input("enter string data"))
+print(f"value of c is {c}")
