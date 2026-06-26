@@ -7,8 +7,8 @@ print(f"hello, name")
 sum=x+y
 print(f"sum of {x} and {y} is {sum}")
 
-
-
-
 sub=x-y
 print(f"sub of {x} and {y} is {sub}")
+
+mul=x*y
+print(f"mul of {x} and {y} is {mul}")
